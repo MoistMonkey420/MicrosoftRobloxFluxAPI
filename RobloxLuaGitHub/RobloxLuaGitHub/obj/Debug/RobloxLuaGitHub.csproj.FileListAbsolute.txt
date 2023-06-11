@@ -1,0 +1,9 @@
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\bin\Debug\RobloxLuaGitHub.exe.config
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\bin\Debug\RobloxLuaGitHub.exe
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\bin\Debug\RobloxLuaGitHub.pdb
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.Form1.resources
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.Properties.Resources.resources
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.csproj.GenerateResource.cache
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.exe
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.pdb
