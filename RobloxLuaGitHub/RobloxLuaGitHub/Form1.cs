@@ -1,4 +1,4 @@
-using RBXMSEAPI.Classes;
+﻿using RBXMSEAPI.Classes;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Net;
 
 namespace RobloxLuaGitHub
 {
@@ -46,15 +45,12 @@ namespace RobloxLuaGitHub
                 MessageBox.Show("Inject before running script", "Please inject");
             }
         }
-        
-        //this is a code for a script button, its not a actual button in the project but put here to give you an idea on how the code looks(too lazy to do a full commit).
-        WebClient wb = new WebClient();
-        string Script = wb.DownloadString("RAW PASTEBIN LINK HERE");
+        string scriptBtn = "Script here!";
         private void button4_Click(object sender, EventArgs e)
         {
             if (fluxteam_net_api.is_injected(fluxteam_net_api.pid))
             {
-                fluxteam_net_api.run_script(fluxteam_net_api.pid, Script);
+                fluxteam_net_api.run_script(fluxteam_net_api.pid, scriptBtn);
             }
             else
             {

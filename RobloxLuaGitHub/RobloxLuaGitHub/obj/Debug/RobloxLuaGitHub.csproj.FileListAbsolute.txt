@@ -7,3 +7,4 @@ C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGi
 C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.csproj.CoreCompileInputs.cache
 C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.exe
 C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.pdb
+C:\Users\Snus\source\repos\RobloxLuaGitHub\RobloxLuaGitHub\obj\Debug\RobloxLuaGitHub.csproj.AssemblyReference.cache
